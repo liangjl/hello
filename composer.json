@@ -1,3 +1,7 @@
 {
-  "name":"liangjl/hello"
+  "name":"liangjl/hello",
+  "description":"liangjl test composer repo",
+  "require":{
+    "php":">=7.1"
+  }
 }
