@@ -1,7 +1,13 @@
 {
   "name":"liangjl/hello",
   "description":"liangjl test composer repo",
-  "author":"liang ji lin",
+  "author":[
+    {
+      "name":"liang ji lin",
+      "email":"liangjl21st@163.com",
+      "role":"Developer"
+    }
+  ],
   "require":{
     "php":">=7.1"
   }
